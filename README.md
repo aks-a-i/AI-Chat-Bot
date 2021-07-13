@@ -7,6 +7,3 @@ AI chat bot used for banking customer service
 ```
 python main.py
 ```
-
-### ADDING DATA
-
